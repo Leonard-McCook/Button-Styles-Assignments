@@ -1,0 +1,8 @@
+button{
+    background-color:rgb(46, 95, 230);
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    box-shadow: 4px 4px #222;
+}

@@ -1,0 +1,11 @@
+button{
+    background-color: white;
+    color: turquoise;
+    width: 8%; 
+    height : 29px;
+    border-color: turquoise;
+    border-style: ridge;
+    border-radius: 14px;
+    font-weight: bolder;
+    font-style: initial;
+}

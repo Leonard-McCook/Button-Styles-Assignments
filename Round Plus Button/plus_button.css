@@ -1,0 +1,9 @@
+button{
+    background-color: turquoise;
+    color: white;
+    width: 3%;
+    height : 44px;
+    border-radius: 50%;
+    font-size: 25px;
+    border: none;
+}
